@@ -5,6 +5,10 @@ public class TugasPBO2 {
         
         myFrame m = new myFrame();
         
+        m.pesan = "Assalamualaikum";
+        m.bilBulat = 2017;
+        m.bilDesimal = 3.14;
+        
     }
     
 }
