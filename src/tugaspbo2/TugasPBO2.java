@@ -9,6 +9,8 @@ public class TugasPBO2 {
         m.bilBulat = 2017;
         m.bilDesimal = 3.14;
         
+        m.cetakAttribute();
+        
     }
     
 }
